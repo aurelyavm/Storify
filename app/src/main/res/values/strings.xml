@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name" translatable="false">Storify</string>
+    <string name="start_message">Start sharing your stories on</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+    <string name="register">Register</string>
+    <string name="email" translatable="false">email</string>
+    <string name="password" translatable="false">password</string>
+    <string name="name">name</string>
+    <string name="login_now">Login Now</string>
+    <string name="have_account">Already have an account?</string>
+
+    <string name="error_fetch_data">Error fetching data</string>
+
+    <string name="error_register">Register failed</string>
+
+    <string name="error_server">Oops! Something went wrong with the server. Try again later!</string>
+
+    <string name="empty_image_description">Please add an image and a description</string>
+    <string name="empty_email_password">Please fill in your email and password</string>
+    <string name="invalid_email">This email format is invalid</string>
+    <string name="empty_email_password_name">Please fill in your name, email, and password</string>
+    <string name="password_policy">Password should be at least 8 characters</string>
+    <string name="empty_image">Please add an image</string>
+    <string name="empty_description">Please add a description</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="invalid_email_password">Invalid email and password</string>
+
+    <string name="successful_register">Register Successful! Please login using the registered email and password!</string>
+    <string name="success_upload_image">Story success uploaded!</string>
+    <string name="logo_storify" translatable="false">logo Storify</string>
+
+    <string name="dismiss">DISMISS</string>
+    <string name="stories" translatable="false">Stories</string>
+    <string name="profile" translatable="false">Profile</string>
+    <string name="story_content_image" translatable="false">Story content image</string>
+    <string name="calendar">Calendar</string>
+    <string name="add_story">Add Story</string>
+    <string name="share">SHARE</string>
+    <string name="language">Language</string>
+    <string name="change">Change</string>
+    <string name="logout">Logout</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="retry">Retry</string>
+    <string name="current_location">Current Location</string>
+    <string name="use_marked_location">Marked Location</string>
+    <string name="start_point">Start Point</string>
+    <string name="icon_location">Icon Location</string>
+    <string name="choose_your_location">Add a Location</string>
+    <string name="click_on_the_map">Click on the map to select a location</string>
+    <string name="location_not_found">Location not found</string>
+    <string name="used_location">Are you sure you want to select this location?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="maps">View Map</string>
+    <string name="language_image" translatable="false">Language Image</string>
+    <string name="logout_image" translatable="false">Logout Image</string>
+</resources>

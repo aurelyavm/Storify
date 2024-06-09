@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_message">Mulai bagikan ceritamu di</string>
+    <string name="login">Masuk</string>
+    <string name="not_registered">Belum punya akun?</string>
+    <string name="register_now">Daftar sekarang</string>
+    <string name="register">Daftar</string>
+    <string name="name">nama</string>
+    <string name="login_now">"Masuk "</string>
+    <string name="have_account">Sudah punya akun?</string>
+    <string name="error_fetch_data">Error ketika mengunmpulkan data!</string>
+    <string name="error_register">Gagal mendaftar!</string>
+    <string name="error_server">Ups! Terjadi kesalahan pada server. Coba lagi nanti!</string>
+    <string name="empty_image_description">Mohon tambahkan gambar dan deskripsi</string>
+    <string name="empty_email_password">Mohon isi email dan password</string>
+    <string name="invalid_email">Format email tidak valid</string>
+    <string name="empty_email_password_name">Nama, email, dan password tidak valid</string>
+    <string name="password_policy">Password setidaknya harus 8 karakter</string>
+    <string name="empty_image">Mohon input gambar</string>
+    <string name="empty_description">Mohon isi deskripsi</string>
+    <string name="successful_register">Berhasil Daftar! Silakan login menggunakan email dan password yang terdaftar</string>
+    <string name="success_upload_image">Story berhasil diupload!</string>
+    <string name="dismiss">KEMBALI</string>
+    <string name="share">BAGIKAN</string>
+    <string name="calendar">Calendar</string>
+    <string name="add_story">Tambah</string>
+    <string name="language">Bahasa</string>
+    <string name="change">Ganti</string>
+    <string name="logout">Keluar</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="description">Deskripsi</string>
+    <string name="invalid_password">Password tidak valid</string>
+    <string name="invalid_email_password">Email dan password tidak valid</string>
+    <string name="retry">Coba lagi</string>
+    <string name="current_location">Lokasi Saat Ini</string>
+    <string name="click_on_the_map">Klik pada peta untuk memilih lokasi</string>
+    <string name="location_not_found">Lokasi tidak ditemukan!</string>
+    <string name="used_location">Yakin memilih lokasi ini?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="start_point">Titik Awal</string>
+    <string name="use_marked_location">Tandai Lokasi</string>
+    <string name="icon_location">Icon Location</string>
+    <string name="choose_your_location">Tambahkan lokasi</string>
+    <string name="maps">Peta</string>
+</resources>
