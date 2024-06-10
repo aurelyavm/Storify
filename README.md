@@ -26,3 +26,4 @@ The features are:
 - "View Map" button in the story list page to display the map page.
 - The map page shows a map that has all of the stories that have a location.
 
+Demo Video: https://drive.google.com/file/d/1-rBWmclccVVOL3RAP3Pdy4VXJsqb652i/view?usp=sharing
